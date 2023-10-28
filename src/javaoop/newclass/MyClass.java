@@ -16,8 +16,5 @@ public class MyClass {
     public int getAge() {
         return age;
     }
-
-    public String getName() {
-        return name;
-    }
+    
 }
